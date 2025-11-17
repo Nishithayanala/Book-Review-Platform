@@ -1,2 +1,2 @@
 # Book-Review-Platform
-All About the Books 
+Book Review Platform is a full-stack web application that allows users to browse books, submit reviews, and interact with a dynamic catalog. The system supports secure user authentication, role-based access control, and an admin dashboard for moderating reviews. It incorporates a Node.js and Express backend, MongoDB for data storage, and EJS templates for rendering dynamic front-end content. Users can create accounts, search books, view details, and post reviews, while administrators manage book entries and approve or reject user reviews.
